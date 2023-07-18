@@ -132,6 +132,9 @@ venv.bak/
 config.py
 materias.json
 
+# Visual Studio Code
+.vscode/
+
 # Spyder project settings
 .spyderproject
 .spyproject
